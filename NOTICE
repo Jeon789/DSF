@@ -1,0 +1,6 @@
+This repository contains code derived from the MoCo codebase:
+https://github.com/facebookresearch/moco
+Licensed under the MIT License (see LICENSE).
+
+Modifications and additions:
+Copyright (c) 2025 Jae Hyoung Jeon

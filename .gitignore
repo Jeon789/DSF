@@ -1,0 +1,26 @@
+# data / outputs
+data/
+Data/
+runs/
+wandb/
+logs/
+log/
+outputs/
+checkpoints/
+
+# model files
+*.pth
+*.pt
+*.ckpt
+*.tar
+*.tar.gz
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# editor / os
+.vscode/
+.DS_Store
