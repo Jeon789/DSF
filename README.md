@@ -82,6 +82,9 @@ python main_linclsv3.py \
 - Results reported in the paper use `seed=307`.
 - Multi-GPU training: set `CUDA_VISIBLE_DEVICES=0,1,2,3`.
 
+## Pretrained Checkpoints
+- ViT-S (IN100, 100 epochs, seed=307): [download](https://github.com/Jeon789/DSF/releases/download/v1.0/ckpt_vits_in100_ep100_seed307.pth.tar)
+
 ## License
 This project is released under the MIT License. See `LICENSE`.
 
